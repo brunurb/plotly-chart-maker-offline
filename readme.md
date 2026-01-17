@@ -205,7 +205,15 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
 
 ## 📸 Screenshots
 
-![ChartMaker Interface](https://github.com/brunurb/plotly-chart-maker-offline/blob/main/Screenshot%202026-01-17%20at%2018-08-22%20ChartMaker%20%C2%B7%20Streamlit.png)
+<div style="display: flex; gap: 12px;">
+  <img src="https://raw.githubusercontent.com/brunurb/plotly-chart-maker-offline/main/Screenshot%202026-01-17%20at%2018-08-22%20ChartMaker%20%C2%B7%20Streamlit.png" style="width: 33%;"/>
+  <img src="https://raw.githubusercontent.com/brunurb/plotly-chart-maker-offline/main/Screenshot%202026-01-17%20at%2018-14-33%20ChartMaker%20%C2%B7%20Streamlit.png" style="width: 33%;"/>
+  <img src="https://raw.githubusercontent.com/brunurb/plotly-chart-maker-offline/main/Screenshot%202026-01-17%20at%2018-15-29%20ChartMaker%20%C2%B7%20Streamlit.png" style="width: 33%;"/>
+</div>
+
+
+
+
 
 ---
 
