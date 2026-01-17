@@ -205,7 +205,7 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
 
 ## 📸 Screenshots
 
-![ChartMaker Interface](https://via.placeholder.com/800x400?text=ChartMaker+Interface)
+![ChartMaker Interface](https://github.com/brunurb/plotly-chart-maker-offline/blob/main/Screenshot%202026-01-17%20at%2018-08-22%20ChartMaker%20%C2%B7%20Streamlit.png)
 
 ---
 
