@@ -1,0 +1,15 @@
+ChartMaker - Conversor de CSV para Gráficos
+
+Para executar esta aplicação:
+
+1. Instale o Docker Desktop a partir de https://www.docker.com/get-started
+2. Inicie o Docker Desktop
+3. Faça duplo clique em:
+   - run.bat (Windows)
+   - run.sh (macOS/Linux)
+4. Aguarde que a aplicação inicie (pode demorar alguns minutos na primeira execução)
+5. O seu navegador web padrão abrirá em http://localhost:8501
+6. Os gráficos exportados serão guardados na pasta 'output_charts'
+
+Nota: O Docker deve estar instalado e em execução.
+
